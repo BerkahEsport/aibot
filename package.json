@@ -1,0 +1,29 @@
+{
+    "name": "botbe-bing",
+    "version": "1.0.0",
+    "author": "berkahesport.id",
+    "description": "Bot whatsapp from bingAI and All Downloader",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node .",
+        "test": "node test.js"
+    },
+    "keywords": [],
+    "dependencies": {
+        "@waylaidwanderer/chatgpt-api": "github:BerkahEsport/node-chatgpt-api",
+        "@whiskeysockets/baileys": "^6.7.5",
+        "axios": "^1.7.3",
+        "cheerio": "^1.0.0-rc.12",
+        "file-type": "^19.4.0",
+        "fluent-ffmpeg": "^2.1.3",
+        "formdata-node": "^6.0.3",
+        "json-stable-stringify": "^1.1.1",
+        "node-webpmux": "^3.2.0",
+        "ora": "^8.0.1",
+        "p-queue": "^8.0.1",
+        "pdf-parse": "^1.1.1",
+        "readline": "^1.3.0",
+        "ws": "^8.17.1"
+    }
+}
