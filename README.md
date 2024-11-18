@@ -1,4 +1,4 @@
-# <===== BASE BOT WA BING AI =====>
+# <===== BASE BOT WA AI =====>
 This simple base for bot WhatsApp BingAI with libs Baileys.
 This script was created on July 14, 2024.
 
